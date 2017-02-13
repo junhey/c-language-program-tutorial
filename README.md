@@ -1,6 +1,8 @@
-# c
+# C程序设计语言
 
-c程序设计语言案例
+《C程序设计语言 第二版新版》案例
+
+购买链接 [京东](https://item.jd.com/10057446.html)
 
 ### 目录详解
 
@@ -26,4 +28,5 @@ VC++ 6.0
 
 ### 开发代码
 
+[hello.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/hello.c)
 
