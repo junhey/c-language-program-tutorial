@@ -28,5 +28,17 @@ VC++ 6.0
 
 ### 开发代码
 
-[hello.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/hello.c)
+[hello.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/lesson1/hello.c)
+hello world
 
+[max.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/lesson2/max.c)
+两个值比较大小，输出大的数
+
+[main.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/lesson3/main.c)
+c语言输入流 输出流 错误流
+
+[main.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/lesson4/main.c)
+c语言管道原理和使用
+
+[main.c](https://github.com/junhey/c-language-program-tutorial/blob/master/codes/lesson4/main.c)
+c语言 Makefile文件编写和使用
